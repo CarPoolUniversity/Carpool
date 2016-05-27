@@ -1,0 +1,71 @@
+<resources>
+    <!-- Strings do nome do app de activities -->
+    <string name="app_name">Carpool</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="title_activity_login">Entrar</string>
+    <string name="title_activity_procurar_carona">Procurar Carona</string>
+    <string name="title_activity_oferecer_carona">Oferecer Carona</string>
+    <string name="title_activity_perfil">Perfil</string>
+    <string name="title_activity_info_carona">Carona</string>
+
+
+    <!-- Strings referentes ao NavDrawer -->
+    <string name="home">Página Inicial</string>
+    <string name="perfil">Seu Perfil</string>
+    <string name="procurar_carona">Procurar Carona</string>
+    <string name="oferecer_carona">Oferecer Carona</string>
+    <string name="caronas">Suas Caronas</string>
+    <string name="pontos_favoritos">Pontos Favoritos</string>
+    <string name="logout">Sair</string>
+
+    <!-- Strings botões e telas -->
+    <string name="btn_procurar">Procurar</string>
+    <string name="btn_pedir">Pedir Carona</string>
+    <string name="btn_oferecer">Oferecer</string>
+    <string name="btn_confirmar">Confirmar</string>
+    <string name="btn_ver_perfil">Ver Perfil</string>
+    <string name="raio_de_busca">Raio de busca: </string>
+    <string name="metros"> metros</string>
+    <string name="raio_de_busca_default">Raio de busca: 1000 metros</string>
+    <string name="as">às</string>
+    <string name="horario_inicio">Horário Início</string>
+    <string name="horario_fim">Horário Fim</string>
+    <string name="horario_partida">Horário de Partida</string>
+
+    <!-- Mensagens de info/erro -->
+    <string name="carregando_localizacao">Aguarde... Carregando localização.</string>
+    <string name="em_desenvolvimento">Em desenvolvimento...</string>
+    <string name="nenhuma_carona">Nenhuma carona foi encontrada =/ </string>
+    <string name="novos_filtros">Tente pesquisar de novo com filtros diferentes! ;)</string>
+    <string name="msg_ponto_adicionado">Ponto adicionado!</string>
+    <string name="msg_ponto_alterado">Ponto alterado!</string>
+    <string name="msg_ponto_removido">Ponto removido!</string>
+
+    <!-- Mensagens de AlertDialogs -->
+    <string name="titulo_trocar_carro">Trocar Carro</string>
+    <string name="msg_trocar_carro">Deseja mesmo alterar o carro?</string>
+    <string name="btn_positivo_sim">Sim</string>
+    <string name="btn_negativo_cancelar">Cancelar</string>
+
+    <!-- Strings internas -->
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="hora_minuto">hh:mm</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- Facebook Login -->
+    <string name="facebook_app_id">1539986336310592</string>
+
+</resources>
